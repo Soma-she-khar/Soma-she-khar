@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Soma-she-khar/Soma-she-khar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soma_shekhar/Soma_shekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
